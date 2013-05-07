@@ -1,4 +1,4 @@
 live-radio-mobile
 =================
 
-Create a simple site to stream live radio 
+This is a simple site using bootstrap for streaming radio. It fits to mobile using bootstrap.
